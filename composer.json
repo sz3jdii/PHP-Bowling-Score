@@ -1,0 +1,14 @@
+{
+    "name": "sz3jdii/bowling-score",
+    "description": "Program that counts points and determines rounds in bowling game built using TDD technique.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sz3jdii",
+            "email": "swiatkowskiam@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
